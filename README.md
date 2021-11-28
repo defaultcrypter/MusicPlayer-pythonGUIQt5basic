@@ -19,6 +19,13 @@ sinta-se livre para dar uma olhadinha nos arquivos "musicplayer.py" e "MusicPlay
 
 ----------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/81519068/143778417-40cacd6c-c2d7-4834-b5f9-246d684f9daa.png)
+
+![image](https://user-images.githubusercontent.com/81519068/143778466-e3850014-d507-4911-9658-2cc1b1eeb3ca.png)
+
+----------------------------------------------------------------------------------------
+
+
  STUDY PROGRAMMING AND LIVE, KNOWLEDGE IS NOT A CRIME!
 
 Hello my name is Gustavo, better known as (Default Crypter) or ~Pirata | on the web!
